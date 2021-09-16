@@ -15,6 +15,6 @@ Criar arquivo token.txt na raiz com o token do bot que enviará as notificaçõe
 
 Criar arquivo urls.txt na raiz com as urls e limites de preço em ETH separadas por um pipe (url|Ξ), uma por linha
 </br>Formato exemplo:</br>
-https://axie.zone/finder?search=class:aquatic;part:mouth-risky-fish,horn-shoal-star,back-bidens,tail-koi;breed_count:0;purity:3|0.24
-https://axie.zone/finder?search=class:bird;part:mouth-little-owl,horn-eggshell,back-pigeon-post,tail-post-fight;breed_count:0|0.22
+https://axie.zone/finder?search=class:aquatic;part:mouth-risky-fish,horn-shoal-star,back-bidens,tail-koi;breed_count:0;purity:3|0.24</br>
+https://axie.zone/finder?search=class:bird;part:mouth-little-owl,horn-eggshell,back-pigeon-post,tail-post-fight;breed_count:0|0.22</br>
 https://axie.zone/finder?search=class:aquatic;part:mouth-piranha,horn-shoal-star,back-sponge,tail-nimo;breed_count:0;purity:3|0.35
